@@ -1,0 +1,11 @@
+C:\Users\muras\Desktop\MFPB\bin\Debug\MFPB.exe.config
+C:\Users\muras\Desktop\MFPB\bin\Debug\MFPB.exe
+C:\Users\muras\Desktop\MFPB\bin\Debug\MFPB.pdb
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.csproj.AssemblyReference.cache
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.Properties.Resources.resources
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.csproj.GenerateResource.cache
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.csproj.CoreCompileInputs.cache
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.exe
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.pdb
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.MyFragmentedProgressBar.resources
+C:\Users\muras\Desktop\MFPB\obj\Debug\MFPB.Form.resources
